@@ -18,9 +18,9 @@ Simple iOS Cafe Menu App to learn and practice working with XCode, SwuiftUI, and
 
     
 <p float="left">
-  <img src="./Screenshots/hospitalView.PNG" width="200" />
-  <img src="./Screenshots/hospitalRow.PNG" width="200" /> 
-  <img src="./Screenshots/hospitalDetail.PNG" width="200" />
+  <img src="./Screenshots/splash.png" width="200" />
+  <img src="./Screenshots/content.jpg" width="200" /> 
+  <img src="./Screenshots/detail.png" width="200" />
 </p>
  </ol>
  
